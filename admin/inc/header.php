@@ -55,8 +55,8 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
                     <img src="img/livelogo.png" alt="Logo" />
                 </div>
                 <div class="floatleft middle">
-                    <h1>Training with live project</h1>
-                    <p>www.trainingwithliveproject.com</p>
+                    <h1>Demo Title</h1>
+                    <p></p>
                 </div>
                 <div class="floatright">
                     <div class="floatleft">
